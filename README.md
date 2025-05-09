@@ -1,2 +1,3 @@
-# GRAPHIC DESIGN TEMPLATE's
-Zero to Hero design course template's
+After this, Jarvis won't support Python2.
+
+This version has support for Linux(most of them), MacOS and Windows 10
